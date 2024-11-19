@@ -9,3 +9,13 @@ Aquest projecte és una pràctica per aprendre a utilitzar Git, GitHub i Markdow
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [License](#License)
+
+### Introduction
+
+### Features
+
+### Installation
+
+### Usage
+
+### License

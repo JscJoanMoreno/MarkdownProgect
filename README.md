@@ -12,6 +12,10 @@ Aquest projecte és una pràctica per aprendre a utilitzar Git, GitHub i Markdow
 
 ### Introduction
 
+![IMATGE RANDOM](/images/logo.png)
+
+NOU MISATGE PER VEURE EL GIT DIFF
+
 ### Features
 
 **Aquest projecte** inclou diverses característiques per a millorar la seva utilitat.
@@ -41,11 +45,6 @@ def add_numbers(a, b):
 result = add_numbers(5, 7)
 print("The sum is:", result)
 
-### License
-
-![IMATGE RANDOM](/images/logo.png)
-
-
-
-
 ```
+
+### License

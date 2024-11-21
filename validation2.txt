@@ -1,0 +1,98 @@
+commit ccb21c826f92d109538b17c7024ba654f303ce31
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 09:41:04 2024 +0100
+
+    Update Introduction of README.md
+
+ README.md | 13 ++++++-------
+ 1 file changed, 6 insertions(+), 7 deletions(-)
+
+commit 341c6dafff8bb3b1bb35076e7986c8113940eec2
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 09:37:48 2024 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 80 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 80 insertions(+)
+
+commit f3120a17c067fe1bcdda82c21dc5860228d92b55
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 09:23:03 2024 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 00587232ca8743589fb7737017ee22c7b30fb890
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 09:13:27 2024 +0100
+
+    Enchance README with formating
+
+ README.md | 26 ++++++++++++++++++++++++--
+ 1 file changed, 24 insertions(+), 2 deletions(-)
+
+commit 10e82ec8b683a2fdfcb909309b2a73558804663b
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 09:07:04 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 01ada3125acd02d19ae09d08171e33eb9789b606
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 09:02:56 2024 +0100
+
+    Add progect logo to README
+
+ images/logo.png | Bin 0 -> 97294 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7087721e598ef6795354d3ab09a4be97500e739b
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 08:54:53 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit c763de400221306f95c622f5b11ccd6dad8f0072
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 08:49:35 2024 +0100
+
+    Add table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 56a442732a27c5c98349b32e28398613dbb9682b
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 08:38:46 2024 +0100
+
+    Add README with progect introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 36b13e7ef7296036c0116a93dbeb78e8ec753214
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 08:33:07 2024 +0100
+
+    Initial commit with .gitignore
+
+ notes/notes.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 09256f6ffc92fbbf98b6fabf85ddadf414e355f3
+Author: Joan <21760624w@iespoblenou.org>
+Date:   Tue Nov 19 08:31:06 2024 +0100
+
+    Initial commit with .gitignore
+
+ notes/.gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
